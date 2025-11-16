@@ -10,6 +10,6 @@ Projektowanie Gier Komputerowych
 ![Static Badge](https://img.shields.io/badge/Fortnite-%2334F96?style=for-the-badge&logo=Fortnite&logoColor=black&logoSize=30&color=orange)
 
 ## Statystyki
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolcia4806&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolcia4806&theme=shadow_red_icons=true)
 
 
