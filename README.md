@@ -1,6 +1,6 @@
 ## Hejka, z tej strony Dominika 🦆
 Jestem w trakcie studiów Informatycznych na specjalności 
--Projektowanie Gier Komputerowych
+Projektowanie Gier Komputerowych
 
 ## Technologie
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=30&color=orange)
